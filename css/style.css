@@ -32,7 +32,7 @@ body {
 .clear { clear: both }
 
 #calendar {
-  width: 200px;
+  width: 30%;
   margin: 0 auto;
   font-size: 10px;
 }
@@ -81,5 +81,9 @@ height: 60px !important;
 }
 
 .fc-day-grid-container {
-height: 63px;
+height: 90%;
+}
+
+.cal-container{
+  
 }
